@@ -9,6 +9,8 @@
 <body>
     <h1>mencoba remote </h1>
     <p>mencoba remote</p>
-    
+    <ul>
+        <li>lukamn</li>
+    </ul>
 </body>
 </html>
